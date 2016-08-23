@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main() {
+	int story,aom;
+	printf("Enter number");
+	scanf("%d",&aom);
+	for(story=0;story<=aom;story++)
+	{
+	printf("Hello world \n");
+	}
+	return 0;
+}
